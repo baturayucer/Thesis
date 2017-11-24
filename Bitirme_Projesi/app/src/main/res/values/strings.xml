@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bitirme_Projesi</string>
+    <string name="saatkulesi">Saat Kulesi</string>
+    <string name="saatkulesi_info">İzmit, Kemalpaşa mahallesinde Kasr-ı Hümayun (Saray Müze) ile Atatürk
+        Heykeli arasında yer alan, kentin karekteristik Saat Kulesi’ni İzmit Mutasarrıfı Musa Kazım
+        Bey tarafından, Sultan II.Abdülhamit’in tahta çıkışının 25. yıldönümü nedeniyle 1902 yılında
+        Neoklasik üslupta Hereke ve Tavşancıldan getirilen traverten taşlardan yaptırılmıştır.</string>
+
+    <string name="sekapark">Seka Park</string>
+    <string name="sekapark_info">İzmit Şehir Merkezinde sahile sıfır bir alanda Türkiye’nin en büyük
+        endüstriyel dönüşüm projelerinden biri olan eski SEKA Kağıt Fabrikası arazisindedir. Dünya’nın
+        en büyük kent parklarından biridir. Toplam 580 dönümlük SEKA arazisi üzerinde Birinci etabı
+        tamamlanan Projenin tamamında marina iskelesi, normal iskele, kağıt müzesi, kent müzesi, oturma alanları,
+        deniz kıyısında büfe, plaj, dinlenme sahaları, denize inen merdivenler, ışık kuleleri, balıkçı restorantları,
+        su oyun alanları, su ışık gösterileri, denize inen kızak alanları, iskeleler, deniz gözetleme kulesi, koşu,
+        jogging, yürüme bantları, rıhtım ışıklandırması, dinlenme parkları, kongre salonları, ağaçlık alanda
+        oturma alanları, zemin altında otopark alanı, gösteri ve görsel sanat atölyeleri, sergi salonları,
+        kapalı spor salonları, açık spor sahaları, festival yapımı için mekanlar, gölet, çocuklar için su oyun
+        merkezleri gibi bir çok tesis oluşturulmuş, öte yandan, 2 adet basket, 2 adet tenis, 1 adet futbol
+        sahasından oluşan spor kompleksi, 1 adet mini golf alanı, 3 adet mini basketbol sahası, kaykay pisti,
+        kondisyon alanı, çocuk oyun alanları, atlı karınca, bisiklet yolu, çim amfi, uçurtma tepesi, kumsal, otopark,
+        6 adet suni tepe, gül bahçesi, çok amaçlı çim alanları, yürüyüş yolları, ahşap oturma grupları, kafe ve büfeler 2
+        kilometre uzunluğundaki yürüyüş yolu ve bisiklet yolu, 2000 araçlık otopark alanı bulunuyor.</string>
+
+    <string name="pertevmehmetpasacamii">Pertev Mehmet Paşa Camii</string>
+    <string name="pertevmehmetpasacamii_info">Padişah II. Selim\'in II. veziri Pertev Mehmet Paşa adına,
+        ölümünden sonra vasiyeti üzerine kethüdası Sinan ağa tarafından yaptırılmış ve cami kitabesine
+        göre miladi 1579 (Hicri: 987) yılında tamamlanmıştır. Camii ile birlikte sübyan mektebi ve
+        hamam kalıntısı ayakta durmaktadır. Cami ve külliye Mimar Sinan\'ın eserleridir. Külliyeden
+        yalnızca cami ve çeşme özelliklerini koruyarak günümüze gelmiştir. Süryan mektebi onarımlar
+        sonucu özgün şeklini tamamen yitirmiş, hamam ise harabe halinde temel kalıntıları ve sıcaklığının
+        bir kısmı korunmaktadır.</string>
+
+    <string name="devam">Daha fazlası için tıklayın.</string>
+
+    <string name="notfound_title">Başlık bulunamadı!</string>
+    <string name="notfound_info">Bilgi bulunamadı!</string>
+
+</resources>
